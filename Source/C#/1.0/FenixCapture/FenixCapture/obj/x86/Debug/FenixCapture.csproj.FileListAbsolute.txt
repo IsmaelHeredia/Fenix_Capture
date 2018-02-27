@@ -1,0 +1,15 @@
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 2\Mejorados Beta - Finales\Fenix Capture\Source\FenixCapture\FenixCapture\obj\x86\Debug\FenixCapture.exe
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 2\Mejorados Beta - Finales\Fenix Capture\Source\FenixCapture\FenixCapture\obj\x86\Debug\FenixCapture.pdb
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 2\Mejorados Beta - Finales\Fenix Capture\Source\FenixCapture\FenixCapture\bin\Debug\FenixCapture.exe
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 2\Mejorados Beta - Finales\Fenix Capture\Source\FenixCapture\FenixCapture\bin\Debug\FenixCapture.pdb
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 2\Mejorados Beta - Finales\Fenix Capture\Source\FenixCapture\FenixCapture\obj\x86\Debug\FenixCapture.csprojResolveAssemblyReference.cache
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 2\Mejorados Beta - Finales\Fenix Capture\Source\FenixCapture\FenixCapture\obj\x86\Debug\FenixCapture.FormHome.resources
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 2\Mejorados Beta - Finales\Fenix Capture\Source\FenixCapture\FenixCapture\obj\x86\Debug\FenixCapture.Properties.Resources.resources
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 2\Mejorados Beta - Finales\Fenix Capture\Source\FenixCapture\FenixCapture\obj\x86\Debug\FenixCapture.csproj.GenerateResource.Cache
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Capture\FenixCapture\FenixCapture\bin\Debug\FenixCapture.exe
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Capture\FenixCapture\FenixCapture\bin\Debug\FenixCapture.pdb
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Capture\FenixCapture\FenixCapture\obj\x86\Debug\FenixCapture.FormHome.resources
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Capture\FenixCapture\FenixCapture\obj\x86\Debug\FenixCapture.Properties.Resources.resources
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Capture\FenixCapture\FenixCapture\obj\x86\Debug\FenixCapture.csproj.GenerateResource.Cache
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Capture\FenixCapture\FenixCapture\obj\x86\Debug\FenixCapture.exe
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Capture\FenixCapture\FenixCapture\obj\x86\Debug\FenixCapture.pdb
